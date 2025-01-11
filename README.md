@@ -55,7 +55,7 @@ Hello, John! Your score is 85. Your grade is: B.
 
 Enter your name: Sarah  
 Enter your score: 93  
-Hello, Sarah! Your score is 93. Your grade is: A.  
+Hello, Sarah! Your score is 93. Your grade is: A.   
 
 Enter your name: Mike  
 Enter your score: -5  
@@ -77,3 +77,6 @@ This project is open-source and free to use.
 
 ---  
 This grading system is a foundational project ideal for beginners in programming. It can be expanded with features like database storage, login systems, or integration with school management platforms.
+
+### Contact
+For questions, contact the developer on sherifahmad98@yahoo.com
